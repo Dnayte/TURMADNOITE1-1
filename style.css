@@ -4,16 +4,16 @@
   }
   
   .cabecalho {
-    background-color: #14d0f1;
-    color: rgb(206, 7, 7);
+    background-color: #131312;
+    color: rgb(211, 133, 16);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 15px 0;
   }
   
   .cabecalho-imagem{
-    width: 15%;
+    width: 30%;
   }
   
   .cabecalho-lista-item{
@@ -23,7 +23,7 @@
   }
   
   .escola-imagem{
-    width: 25%;
+    width: 15%;
   }
   
   .escola{
